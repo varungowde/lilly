@@ -1,2 +1,2 @@
 # Lilly - Portfolio Site 
-## I made this for web-app for a stranger
+## I made this web-app for a stranger
